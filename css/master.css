@@ -262,7 +262,7 @@ html {
   z-index: -1;
 }
 @media (max-width: 1199px) {
-  .image-hidden {
+  .right-con .image {
     display: none;
   }
 }
